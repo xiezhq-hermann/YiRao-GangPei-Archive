@@ -330,13 +330,9 @@
 
    同页的文字和图5E更明确显示，CXCR4的非七重跨膜短突变种SZ158a，既不能介导对25nM配体的反应，也不能介导对100nM配体的反应。也就是不仅功能下降，实际毫无证据有任何信号传导功能。
 
+![20210124235813](ReplyToZhang.assets/20210124235813.jpg)
 
 
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
-
-
-
- 
 
    这些结果，如果是确切的，是可信的，是可以与凌堃-裴钢论文相比的，那么凌堃-裴钢论文就没有被重复出来。
 
@@ -344,11 +340,9 @@
 
    请您仔细看凌堃-裴钢论文的图3D。他们号称，10nM的配体作用于五重跨膜CCR5、或五重跨膜CXCR4时，引起的钙内流与全长CCR5、或全长CXCR4一样强。
 
-![Image](ReplyToZhang.assets/640)
+![20210124235846](ReplyToZhang.assets/20210124235846.jpg)
 
 
-
- 
 
    按您自己大作的结果，用非七重跨膜的蛋白，在25nM没有作用，因此，在10nM就不应该有作用。您证明凌堃-裴钢论文的结果不可重复。
 
@@ -360,9 +354,7 @@
 
    事实上，凌堃-裴钢做了多个功能检测，短受体蛋白与全长都是一模一样百分之百有转导信号的作用，而且剂量反应曲线完全重叠（如他们的图3A和图3B）。而您的大作认为缩短之后，您检测过的功能都大大下降，而不是完全不变。
 
-![Image](ReplyToZhang.assets/640)
-
-
+![20210124235857](ReplyToZhang.assets/20210124235857.jpg)
 
  
 

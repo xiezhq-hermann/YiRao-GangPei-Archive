@@ -14,6 +14,10 @@ Follow-up debates:
 
 - [张曙光VS饶毅：关于裴钢被质疑论文的争鸣](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/LetterByZhang.md): Open letter by Dr. Shuguang Zhang towards the posts of Dr. Yi Rao, posted on 科学网
     - [实验是检验张曙光pk裴钢对错的唯一标准](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/ReplyToZhang.md): Reply by Dr. Yi Rao, posted on 饶议科学
-- [如何看待“饶毅科学”的最新举报文](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/ArticleByHou.md): Article by 侯兴宇 from 中国科学院科研道德委员会办公室, posted on 科研诚信(ID: kycx144), shared by 知识分子 on Weibo.com
-    - [透明性与君子之争](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/FollowupByHou.md): Follow-up article by 侯兴宇, posted on 科研诚信, shared by 知识分子 on Weibo.com
+- [如何看待“饶毅科学”的最新举报文](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/ArticleByHou.md): Article by 侯兴宇 from 中国科学院科研道德委员会办公室, posted on 科研诚信(ID: kycx144), shared by 知识分子 on weibo.com
+    - [透明性与君子之争](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/FollowupByHou.md): Follow-up article by 侯兴宇, posted on 科研诚信, shared by 知识分子 on weibo.com
 
+Reply from authors of the controversial paper: [Five-transmembrane domains appear sufficient for a G protein-coupled receptor: Functional five-transmembrane domain chemokine receptors | PNAS](https://www.pnas.org/content/96/14/7922):
+
+- [给饶毅教授的回复+补充回复](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/ReplyByLingEtAl.md): Mail by 凌堃, 王平 and 赵简, posted by [a new  account]([kingboxer - 知乎 (zhihu.com)](https://www.zhihu.com/people/tony-87-98-43)) of zhihu.com and shared by 知识分子 on weibo.com
+    - [树欲静而风不止：劝裴钢的学生凌堃不要帮倒忙](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/ReplyToLing.md): Reply by Dr. Yi Rao, posted on 饶议科学
