@@ -2,7 +2,7 @@
 
 Archive the emails and articles involved in the "debate" of academic fraud (mainly in Chinese)
 
-Sources: 中华人民共和国科学技术部, 知识分子, 饶议科学, 科学网
+Sources: 中华人民共和国科学技术部, 知识分子, 饶议科学, 科学网, 科研诚信
 
 Where the academic storm started:
 
@@ -15,3 +15,5 @@ Follow-up debates:
 - [张曙光VS饶毅：关于裴钢被质疑论文的争鸣](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/LetterByZhang.md): Open letter by Dr. Shuguang Zhang towards the posts of Dr. Yi Rao, posted on 科学网
     - [实验是检验张曙光pk裴钢对错的唯一标准](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/ReplyToZhang.md): Reply by Dr. Yi Rao, posted on 饶议科学
 - [如何看待“饶毅科学”的最新举报文](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/ArticleByHou.md): Article by 侯兴宇 from 中国科学院科研道德委员会办公室, posted on 科研诚信(ID: kycx144), shared by 知识分子 on Weibo.com
+    - [透明性与君子之争](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/FollowupByHou.md): Follow-up article by 侯兴宇, posted on 科研诚信, shared by 知识分子 on Weibo.com
+
