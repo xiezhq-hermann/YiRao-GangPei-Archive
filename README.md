@@ -2,7 +2,7 @@
 
 Archive the emails and articles involved in the "debate" of academic fraud (mainly in Chinese)
 
-Sources: 中华人民共和国科学技术部, 知识分子, 饶议科学, 科学网, 科研诚信
+Sources: 中华人民共和国科学技术部, 知识分子, 饶议科学, 科学网, 科研诚信, 财新网
 
 Where the academic storm started:
 
@@ -22,3 +22,4 @@ Reply from authors of the controversial paper: [Five-transmembrane domains appea
 
 - [给饶毅教授的回复+补充回复](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/ReplyByLingEtAl.md): Mail by 凌堃, 王平 and 赵简, posted by a new  account ([kingboxer - 知乎 (zhihu.com)](https://www.zhihu.com/people/tony-87-98-43)) and shared by 知识分子 on weibo.com
     - [树欲静而风不止：劝裴钢的学生凌堃不要帮倒忙](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/ReplyToLing.md): Reply by Dr. Yi Rao, posted on 饶议科学
+- [饶毅举报引发公开论战 裴钢回应称饶应拿出实质证据](https://github.com/xiezhq-hermann/YiRao-GangPei-Archive/blob/main/ResponseFromPei.md): Response from Dr. Gang Pei, posted on 财新网, shared by 知识分子 on weibo.com
